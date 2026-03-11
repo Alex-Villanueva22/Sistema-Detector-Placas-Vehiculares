@@ -1,6 +1,6 @@
 # 🚗 Sistema Detector de Placas Vehiculares (Classic Computer Vision)
 
-> Un sistema de reconocimiento de matrículas vehiculares (ALPR) desarrollado exclusivamente con técnicas clásicas de procesamiento de imágenes, logrando alta precisión sin el uso de Deep Learning.
+> Un sistema de reconocimiento de matrículas vehiculares (ALPR) desarrollado exclusivamente con técnicas clásicas de procesamiento de imágenes, logrando alta precisión sin el uso de redes neuronales ni modelos de Deep Learning.
 
 ---
 
