@@ -34,3 +34,6 @@ Cada región detectada se somete a tres tipos de umbralización antes de pasar p
 * ✅ **Filtro de Ruido:** Uso de expresiones regulares (RegEx) para validar el formato de las placas detectadas.
 * ✅ **Registro Automático:** Exportación de todas las matrículas reconocidas a un archivo de texto (.txt).
 * ✅ **Zero Neural Networks:** Funcionamiento basado 100% en lógica de visión computacional clásica.
+
+## 🎓 Contexto Académico
+Proyecto desarrollado para la asignatura de **Inteligencia Artificial**.
